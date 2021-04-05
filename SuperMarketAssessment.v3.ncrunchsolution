@@ -1,0 +1,9 @@
+﻿<SolutionConfiguration>
+  <Settings>
+    <AllowParallelTestExecution>False</AllowParallelTestExecution>
+    <MetricsExclusionList>
+      <Value>Program.cs:SuperMarketAssessment\SuperMarketAssessment.csproj</Value>
+    </MetricsExclusionList>
+    <SolutionConfigured>True</SolutionConfigured>
+  </Settings>
+</SolutionConfiguration>
